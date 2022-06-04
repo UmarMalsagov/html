@@ -1,0 +1,286 @@
+body {
+font-family: "Gilroy";
+max-width: 1440px;
+   font-size: 18px;
+}
+
+
+.fura{
+    width: 1440px;
+    height: 116;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  #FAFAFA;
+}
+
+
+
+
+
+.container1{
+    display: flex;
+    margin: 39px;
+    margin-left: 80px;
+}
+.container2{
+    display: flex;
+    width: 331px ;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    
+}
+.container2 a{
+    text-decoration: none;
+    color: inherit;
+}
+.container3{
+    width: 150px;
+    height: 43.5px;
+    border: 1px solid #F7941E;
+    border-radius: 5px;
+    color: #F7941E;
+    justify-content: space-between;
+    text-align: center;
+    line-height: 43.5px;
+    margin-right: 34px;
+}
+
+
+.kartinki{
+    background-color:  #F1F1F2;
+    width: 1440px;
+}
+.blok1, .blok2 {
+    display: flex;
+    align-items: center;
+
+}
+.foto1, .foto2 {
+    width: 50%;
+
+    
+}
+
+.foto1 {
+    padding: 8%;
+}
+
+.blok11{
+    width: 433px;
+    margin: auto;
+}
+
+.text{
+    font-size: 55px;
+}
+.text2{
+    font-size: 32px;
+    font-weight: 400;
+}
+.foto1 p{
+    font-size: 20px;
+    margin-top: 36px;
+    
+}
+
+.knopka{
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background-color: #F7941E;
+    border-radius: 5px;
+    color: #F1F1F2;
+    margin-top: 52px;
+    
+}
+.knopka2{
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    border-radius: 5px;
+    color:#F7941E ;
+    margin-top: 52px;
+    border: 1px solid #F7941E;
+    
+}   
+
+.box{
+    width: 100%;
+    height: 820px;
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+     align-items: center;
+     
+
+    }
+.box1{
+        font-size: 32px;
+        font-weight: 400px ;
+    }
+.box2{
+        font-size: 18px;
+        font-weight: 300px;
+    }
+.cardbox {
+    width: 81.25%;
+    display: flex;
+    justify-content: space-between;
+}
+.cardbox p{
+    font-size: 20px;
+}
+
+.card {
+    width: 18%;
+    display: flex;
+    flex-direction: column;
+}
+.cardShadow {
+    box-shadow: -5px 5px 20px black;
+}
+.card p{
+    padding-left: 8.8%;
+    
+}
+
+.card a {
+    padding-top: 74px;
+    padding-left: 8.8%;
+    padding-top: 24px;
+    text-decoration: none;
+}
+.sklad{
+    width: 100%;
+    background-color: #F7941E;
+    height: 240px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.sklad1 h2, p {
+    font-size: 32px; 
+    justify-content: center;
+    
+}
+.sklad1 {
+    margin: 0;
+}
+.sklad2 {
+    width: 420px;
+    display: flex;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+
+.knopka3 {
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    border-radius: 5px;
+    color:black ;
+    border: 1px solid black;
+    text-decoration: none;
+}
+.knopka4 {
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    border-radius: 5px;
+    color:#F1F1F2 ;
+    background-color: black;
+    text-decoration: none;
+    
+}
+.bolshoy {
+width: 1440px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+    
+}
+.bolshoy2 {
+    width: 1170px;
+    height: 370px;
+    margin: auto;
+    background-color: black;
+    display: flex;
+}
+.mal {
+    width: 400px;
+}
+.mal1 {
+color: #F1F1F2;
+width: 770px;
+}
+.subMal1 {
+    max-width: 78%;
+    margin: 0px auto;
+}
+.Mr {
+    padding-top: 63px;
+    font-size: 14px;
+}
+.ReadMore {
+
+} 
+.mal1 h3 {
+    margin-top: 27px;
+    margin-bottom: 60px;
+    font-size: 48px;
+}
+.spisok {
+    width: 1170px;
+    display: flex;
+    margin: auto;
+}
+.spisok1 p{
+    width: 50%;
+    font-size: 18px;
+}
+.spisok h3 {
+    font-size: 30px;
+}
+.list {
+    width: 1440px;
+    height: 410px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    ju
+}
+.list1 {
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+.list2 {
+    width: 1000px;
+    border: 1px solid black;
+    margin: 55px auto;
+}
+.list3 {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin: auto;
+}
+.text11 {
+    font-size: 14px;
+}
